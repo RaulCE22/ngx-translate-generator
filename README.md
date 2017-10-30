@@ -11,4 +11,4 @@ Install:
   * translate.csv  --> You need to modifiqued to translate your own translates. **It´s necesary save the file in UTF-8**
   * script.py --> 
   
- - Enjoy
+ Enjoy
